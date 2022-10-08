@@ -1,4 +1,4 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V5⚜️<br></h1>
+<h1 align="center">BLACK TIGER <br></h1>
 <p align="center">
 <img src="https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
 
@@ -29,4 +29,5 @@
 # > THINURA
 # > LAKHAN
 # > pramu
-# > Amra
+# > Amr
+# > SACHIYA 
